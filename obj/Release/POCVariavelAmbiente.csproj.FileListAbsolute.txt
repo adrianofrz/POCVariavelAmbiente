@@ -1,0 +1,5 @@
+C:\POCVariavelAmbiente\POCVariavelAmbiente\POCVariavelAmbiente\bin\Release\POCVariavelAmbiente.exe.config
+C:\POCVariavelAmbiente\POCVariavelAmbiente\POCVariavelAmbiente\bin\Release\POCVariavelAmbiente.exe
+C:\POCVariavelAmbiente\POCVariavelAmbiente\POCVariavelAmbiente\bin\Release\POCVariavelAmbiente.pdb
+C:\POCVariavelAmbiente\POCVariavelAmbiente\POCVariavelAmbiente\obj\Release\POCVariavelAmbiente.exe
+C:\POCVariavelAmbiente\POCVariavelAmbiente\POCVariavelAmbiente\obj\Release\POCVariavelAmbiente.pdb

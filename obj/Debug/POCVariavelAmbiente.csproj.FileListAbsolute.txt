@@ -1,0 +1,6 @@
+C:\POCVariavelAmbiente\POCVariavelAmbiente\POCVariavelAmbiente\bin\Debug\POCVariavelAmbiente.exe.config
+C:\POCVariavelAmbiente\POCVariavelAmbiente\POCVariavelAmbiente\bin\Debug\POCVariavelAmbiente.exe
+C:\POCVariavelAmbiente\POCVariavelAmbiente\POCVariavelAmbiente\bin\Debug\POCVariavelAmbiente.pdb
+C:\POCVariavelAmbiente\POCVariavelAmbiente\POCVariavelAmbiente\obj\Debug\POCVariavelAmbiente.csprojAssemblyReference.cache
+C:\POCVariavelAmbiente\POCVariavelAmbiente\POCVariavelAmbiente\obj\Debug\POCVariavelAmbiente.exe
+C:\POCVariavelAmbiente\POCVariavelAmbiente\POCVariavelAmbiente\obj\Debug\POCVariavelAmbiente.pdb
